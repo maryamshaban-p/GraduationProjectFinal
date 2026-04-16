@@ -18,7 +18,7 @@ docker-compose --version
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/maryamshaban-p/graduationProject.git
+git clone https://github.com/maryamshaban-p/GraduationProjectFinal.git
 cd graduationProject
 ```
 
